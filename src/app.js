@@ -7,7 +7,7 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   emailjs.init({
-    publicKey: "oVInujW66zbtp7ud_"
+    publicKey: "xxxxxxxxx"
   });
 };
 const button = document.quer;
